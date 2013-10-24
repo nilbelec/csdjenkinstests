@@ -8,7 +8,7 @@ namespace MyAppLibrary.UnitTests
         public void MyTests()
         {
             var myClass = new MyClass();
-            Assert.IsNotNull(myClass);
+            Assert.IsNotNull(null);
         }
 
     }
